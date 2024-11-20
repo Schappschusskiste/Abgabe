@@ -1,0 +1,8 @@
+wheel
+scikit-image
+numpy
+pillow
+matplotlib
+qrcode
+gpiozero
+picamera2
